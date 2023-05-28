@@ -1,12 +1,11 @@
 #Librerias
-
 from operator import index
 import gspread 
+import csv
 import pandas as pd
 import numpy as np
 from oauth2client.service_account import ServiceAccountCredentials
 from pprint import pprint
-
 from requests import head
 
 #Application_GSpread Google Api's
@@ -17,28 +16,40 @@ credentials = ServiceAccountCredentials.from_json_keyfile_name("credenciales.jso
 
 client = gspread.authorize(credentials)
 
-#Query "Certificados 1427"
+#Lista de llaves Application GSPread
 
 sheet = client.open("Seguimiento PQR Procesos PE").worksheet("Certificado_decreto_1427")
 
-datasheet = sheet.get_all_records()
+#list_of_lists = sheet.get_all_values()
+#list_of_dicts = sheet.get_all_records()
+#cell = sheet.find("DAVID ALEJANDRO APACHE RODRIGUEZ")
+#value = sheet.acell("C16")
+#cell = sheet.findall("DAVID ALEJANDRO APACHE RODRIGUEZ")
+#print(cell)
+
+#col = sheet.col_values(1)
+#row = sheet.row_values(2)
+
+#este print sirve para buscar la fila y columna, en la que se ubica la incformación buscada con cell = sheet.find(" ")
+#print("Se ha encontrado el registro en la fila %s y columna %s" % (cell.col, cell.row))
+#print("El valor encontrado se encuentra en la %s" % (value))
 
 #Application_Pandas
 
-dataframe = pd.DataFrame(sheet.get_all_records(head))
+dataframe = pd.DataFrame(sheet.get_all_records())
 
-#col = sheet.col_values(1)
-#row = sheet.row_values(1)
-#cell = sheet.cell(1,1)
+df = dataframe.iloc[:10]
 
-#col1 = sheet.col_values(3)
-#row1 = sheet.row_values(1)
-#cell1 = sheet.cell(1,1)
+print(df)
 
-#col2 = sheet.col_values(13)
-#row2 = sheet.row_values(1)
-#cell2 = sheet.cell(1,1)
+#Exporta a txt en la carpeta de Scripts con nombre en ".txt"
+df.to_csv("certificados.txt", sep=" ",
+          quoting=csv.QUOTE_MINIMAL, escapechar=";")
 
-print(dataframe)
 
+
+#Application Numpy
+#array = np.array(sheet.get_all_values)
+#array = np.array([[1,2,3],[4,5,6]])
+#print(array)
 
