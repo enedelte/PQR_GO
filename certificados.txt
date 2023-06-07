@@ -481,3 +481,47 @@
 479 2446560 29/5/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 29/5/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1434" 83233678 8381622 3/9/2022 9112713 13/5/2023 253 PRECERRADO       
 480 2453949 1/6/2023 "VIVIANA MARCELA GARZON MARTIN" 29/5/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1434" 91429217 8759769 24/1/2023 9150751 19/5/2023 399 PRECERRADO       
 481 2419967 8/5/2023 "LEIDY JULIETH TORRES AGREDO" 29/5/2023 NURC "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1434" 72210040 9079022 24/4/2023 9079022 23/5/2023 552 PRECERRADO       
+482 2456401 30/5/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 30/5/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1434" 98480102 8158616 29/7/2023 9095982 28/4/2023 492 PRECERRADO       
+483 2454300 30/5/2023 "LEIDY JULIETH TORRES AGREDO" 30/5/2023 NURC "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1434" 1076322655 8735300 15/1/2023 9032359 12/5/2023 295 PRECERRADO       
+484 2454568 30/5/2023 "LEIDY JULIETH TORRES AGREDO" 30/5/2023 NURC "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1434" 35603145 9116863 5/5/2023 9116863 3/6/2023 235 PRECERRADO       
+485 2454085 31/5/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 31/5/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1434" 8791255 8278113 9/9/2023 9190722 19/6/2023 461 PRECERRADO       
+486 2456983 2/3/2023 "VIVIANA MARCELA GARZON MARTIN" 31/5/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1434" 16666379 8123195 21/7/2023 8657213 27/12/2022 242 PRECERRADO       
+487 2463823 8/6/2023 "VIVIANA MARCELA GARZON MARTIN" 2/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1434" 1144059366 8147210 1/8/2022 8760779 31/1/2023 503 PRECERRADO       
+488 2455998 2/6/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 2/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1434" 79163220 8760988 14/1/2023 9160557 12/6/2023 320 PRECERRADO       
+489 2458083 8/6/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 5/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1435" 34565096 9179359 21/5/2023 9179359 19/6/2023 30 PRECERRADO       
+490 2448029 1/6/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 5/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1436" 78763998 8190136 9/8/2022 9127383 7/6/2023 296 PRECERRADO       
+491 2458290 5/6/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 5/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1437" 16545974 8586600 20/11/2022 9196244 12/6/2023 372 PRECERRADO       
+492 2459155 5/6/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 5/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1438" 98464398 8994601 30/12/2022 9198682 27/6/2023 300 PRECERRADO       
+493 2466312 9/6/2023 "VIVIANA MARCELA GARZON MARTIN" 6/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1439" 21659648 8553691 28/11/2022 9182660 16/6/2023 475 PRECERRADO       
+494 2468738 13/6/2023 "VIVIANA MARCELA GARZON MARTIN" 7/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1440" 91448145 8813050 12/2/2023 9072527 28/4/2023 479 PRECERRADO       
+495 2464797 14/6/2023 "VIVIANA MARCELA GARZON MARTIN" 7/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1441" 48618908 8779628 2/2/2023 9177659 10/6/2023 465 PRECERRADO       
+496 2469614 7/6/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 7/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1442" 21476497 8801444 2/1/2023 9080328 22/4/2023 291 PRECERRADO       
+497 2463249 7/6/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 7/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1443" 8404095 8763583 29/1/2023 9171319 8/6/2023 600 PRECERRADO       
+498 2467305 9/6/2023 "VIVIANA MARCELA GARZON MARTIN" 7/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1444" 5836463 8725511 15/1/2023 9201930 29/5/2023 356 PRECERRADO       
+499      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1445"              
+500      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1446"              
+501      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1447"              
+502      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1448"              
+503      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1449"              
+504      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1450"              
+505      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1451"              
+506      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1452"              
+507      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1453"              
+508                    
+509                    
+510                    
+511                    
+512                    
+513                    
+514                    
+515                    
+516                    
+517                    
+518                    
+519                    
+520                    
+521                    
+522                    
+523                    
+524                    
+525             PRECERRADO       

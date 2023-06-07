@@ -37,7 +37,7 @@ sheet = client.open("Seguimiento PQR Procesos PE").worksheet("Certificado_decret
 
 dataframe = pd.DataFrame(sheet.get_all_records())
 
-df = dataframe.iloc[:482]
+df = dataframe.iloc[:]
 
 print(df)
 
