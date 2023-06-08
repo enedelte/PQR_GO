@@ -24,8 +24,8 @@ csv_settings = pd.read_csv(r"C:\Users\dapache\python_scripts\myvenv\password_set
 
 for row in csv_settings.itertuples():
     print("Protegiendo PDF en \n"
-          "{file} con la contraseña {password}"
-          .format (file= row[1], password= row[2])
+          "{Ruta} con la contraseña {Clave}"
+          .format (e= row.Ruta, password= row.Clave)
           )
 
    
