@@ -23,5 +23,9 @@ import PyPDF2
 csv_settings = pd.read_csv(r"C:\Users\dapache\python_scripts\myvenv\password_settings.csv", sep=";")
 
 for row in csv_settings.itertuples():
-    print('Protegiendo PDF en {file} con Clave {password}'.format(file=row.Ruta,password=row.Clave))
+    print("Protegiendo PDF en \n"
+          "{file} con la contraseña {password}"
+          .format (file= row[1], password= row[2])
+          )
+
    
