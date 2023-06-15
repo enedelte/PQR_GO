@@ -43,7 +43,7 @@
 41 2268327 26/1/2023 "VIVIANA MARCELA GARZON MARTIN" 23/1/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 42776046 8300549 10/7/2022 8524839 21/11/2022 554 PRECERRADO 24/1/2023      
 42 2272297 25/1/2023 "VIVIANA MARCELA GARZON MARTIN" 23/1/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 14883788 8238591 31/7/2022 8664209 28/11/2022 565 PRECERRADO 24/1/2023      
 43 2269786 27/1/2023 "VIVIANA MARCELA GARZON MARTIN" 23/1/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 70723175 8099760 10/7/2022 8423011 21/10/2022 310 PRECERRADO 24/1/2023      
-44 2269944 27/1/2023 "VIVIANA MARCELA GARZON MARTIN" 23/1/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 3557986 8329611 10/7/2022 8643859 8/10/2022 561 PRECERRADO 24/1/2023      
+44 2269944 27/1/2023 "VIVIANA MARCELA GARZON MARTIN" 23/1/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 3557986 8329611 10/7/2022 8643859 8/10/2022 561 CERRADO 24/1/2023      
 45 2270265 27/1/2023 "VIVIANA MARCELA GARZON MARTIN" 23/1/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 98478377 8248356 17/7/2022 8706565 29/11/2022 285 CERRADO 24/1/2023      
 46 2276398 26/1/2023 "LEIDY JULIETH TORRES AGREDO" 24/1/2023 NURC "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 1074416983 8608122 29/11/2022 8707994 12/1/2023 226 CERRADO 24/1/2023      
 47 2275399 25/1/2023 "LEIDY JULIETH TORRES AGREDO" 23/1/2023 "Supersalud Telefonico" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 91429217 8448594 26/10/2022 8709920 23/1/2023 270 PRECERRADO TUTELAS "SE LE SOLICITA A LINDA SOSA"     
@@ -339,7 +339,7 @@
 337 2373104 5/4/2023 "VIVIANA MARCELA GARZON MARTIN" 4/4/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 13923522 8637976 10/10/2022 8920350 8/1/2023 300 PRECERRADO       
 338 2377259 5/4/2023 "LEIDY JULIETH TORRES AGREDO" 5/4/2023 "Supersalud Telefonico" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 72210040 8866362 23/2/2023 8973119 23/4/2023 522 PRECERRADO       
 339 2372241 5/4/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 5/4/2023 "Otras Entidades Gubernamentales" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 43086231 8234311 26/7/2022 8857714 22/3/2023 599 PRECERRADO       
-340 2372506 5/4/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 5/4/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 3557986 8329611 10/7/2022 8643859 6/11/2022 561 PRECERRADO       
+340 2372506 5/4/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 5/4/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 3557986 8329611 10/7/2022 8643859 6/11/2022 561 CERRADO       
 341 2376753 11/4/2023 "VIVIANA MARCELA GARZON MARTIN" 10/4/2023 "Otras Entidades Gubernamentales" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 987654321 8127162 26/7/2022 8973119 25/3/2023 522 PRECERRADO       
 342 2375363 10/4/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 10/4/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 37942768 8573191 21/11/2022 8986162 19/4/2022 150 PRECERRADO       
 343 2376040 10/4/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 10/4/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 15350724 8710017 25/7/2022 8720257 21/12/2022 180 PRECERRADO       
@@ -388,7 +388,7 @@
 386 2359282 21/4/2023 "VIVIANA MARCELA GARZON MARTIN" 21/4/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 36087104 8659571 5/12/2022 8883640 5/3/2023 316 PRECERRADO       
 387 2354585 21/4/2023 "VIVIANA MARCELA GARZON MARTIN" 21/4/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 31572846 8096838 5/7/2022 8409227 18/10/2022 406 PRECERRADO       
 388 2396060 21/4/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 21/4/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 30303902 8285925 12/9/2022 9006417 25/4/2023 450 PRECERRADO       
-389 2386488 20/4/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 21/4/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1428" 46378194 8627829 21/8/2022 8986880 30/3/2023 251 PRECERRADO       
+389 2386488 20/4/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 21/4/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1428" 71647536 8627829 21/8/2022 9215682 27/6/2023 491 PRECERRADO       
 390 2383366 19/4/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 21/4/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 36225022 8184027 12/8/2022 8999844 21/4/2023 251 PRECERRADO       
 391 2384496 19/4/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 21/4/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 15909267 8530790 8/8/2022 8735767 31/1/2023 100 PRECERRADO       
 392 2381874 18/4/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 21/4/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 3198737 8163618 4/8/2022 8988423 2/5/2023 270 PRECERRADO       
@@ -425,7 +425,7 @@
 423 2415806 8/5/2023 "VIVIANA MARCELA GARZON MARTIN" 5/5/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 72304390 8643317 22/12/2022 9067225 22/4/2023 355 PRECERRADO       
 424 2365024 29/3/2023 "LEIDY JULIETH TORRES AGREDO" 6/5/2023 NURC "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 46668168 8328469 18/8/2022 8432986 16/10/2022 180 PRECERRADO       
 425 2409915 8/5/2023 "MARLON ANDRES AMAYA TRIANA" 8/5/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 24708061 8425994 25/8/2022 9013145 10/5/2023 18 PRECERRADO       
-426 2419967 8/5/2023 "LEIDY JULIETH TORRES AGREDO" 8/5/2023 NURC "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 72210040 9079022 24/4/2023 9079022 23/5/2023 552 PRECERRADO       
+426 2419967 8/5/2023 "LEIDY JULIETH TORRES AGREDO" 8/5/2023 NURC "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 72210040 9079022 24/4/2023 9166462 22/6/2023 552 PRECERRADO       
 427 2412367 9/5/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 9/5/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 52031272 8303926 17/1/2023 8349338 20/4/2023 60 PRECERRADO       
 428 2372451 23/2/2023 "LEIDY JULIETH TORRES AGREDO" 23/2/2023 NURC "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 11432470 8393725 12/10/2022 8495628 11/11/2022 539 PRECERRADO       
 429 2394076 20/4/2023 "LEIDY JULIETH TORRES AGREDO" 23/2/2023 NURC "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1427" 42687177 8869782 25/1/2023 8869885 25/3/2023 227 PRECERRADO       
@@ -498,25 +498,25 @@
 496 2469614 7/6/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 7/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1442" 21476497 8801444 2/1/2023 9080328 22/4/2023 291 PRECERRADO       
 497 2463249 7/6/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 7/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1443" 8404095 8763583 29/1/2023 9171319 8/6/2023 600 PRECERRADO       
 498 2467305 9/6/2023 "VIVIANA MARCELA GARZON MARTIN" 7/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1444" 5836463 8725511 15/1/2023 9201930 29/5/2023 356 PRECERRADO       
-499      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1445"              
-500      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1446"              
-501      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1447"              
-502      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1448"              
-503      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1449"              
-504      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1450"              
-505      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1451"              
-506      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1452"              
-507      "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1453"              
-508                    
-509                    
-510                    
-511                    
-512                    
-513                    
-514                    
-515                    
-516                    
-517                    
+499 2467554 8/6/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 8/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1445" 4627761 8270703 7/8/2022 8806918 24/2/2023 522 PRECERRADO       
+500 2472810 8/6/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 8/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1446" 91073349 8634348 16/12/2022 9146130 10/6/2023 626 PRECERRADO       
+501 2456648 07/06/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 9/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1447" 5712732 8139877 7/8/2022 9226410 2/7/2023 330 PRECERRADO       
+502 2461869 07/06/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 9/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1448" 34317786 8137529 29/7/2023 9049276 6/5/2023 224 PRECERRADO       
+503 2464859 8/6/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 9/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1449" 79442432 8305086 19/8/2022 9141910 14/6/2023 300 PRECERRADO       
+504 2473664 9/6/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 9/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1452" 1123084705 8500517 29/10/2022 8564272 27/12/2022 226 PRECERRADO       
+505 2469209 9/6/2023 "LEIDY JULIETH TORRES AGREDO" 9/6/2023 NURC "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1452" 79205643 8777993 2/2/2023 9182244 22/6/2023 492 PRECERRADO       
+506 2472558 21/03/2023 "VIVIANA MARCELA GARZON MARTIN" 9/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1452" 46378194 8627829 21/8/2022 9215682 29/5/2023 491 PRECERRADO       
+507 2465901 9/6/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 9/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1453" 52072405 8235816 23/8/2022 9197098 21/6/2023 302 PRECERRADO       
+508 2463827 8/6/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 9/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1454" 1036396934 8154588 2/8/2022 9097016 28/5/2023 300 PRECERRADO       
+509 2448516 1/6/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 9/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1455" 4514911 8187179 29/7/2022 9102494 9/5/2023 174 PRECERRADO       
+510 2466256 9/6/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 9/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1456" 4341801 8197542 12/8/2022 9216131 7/6/2023 179 PRECERRADO       
+511 2473603 16/6/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 9/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1457" 28561875 8449343 4/10/2022 9220600 8/6/2023 245 PRECERRADO       
+512 2471550 15/6/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 9/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1458" 63434067 8197486 12/8/2023 9169487 8/6/2023 283 PRECERRADO       
+513 2472857 21/6/2023 "ANDREA DEL PILAR BARRIGA LORENZANO" 9/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1459" 43494217 8245162 20/8/2022 8980927 3/4/2023 188 PRECERRADO       
+514 2470882 13/6/2023 "LEIDY JULIETH TORRES AGREDO" 13/6/2023 NURC "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1459" 37530893 8770677 28/1/2023 9221440 27/6/2023 449 PRECERRADO       
+515 2472507 13/6/2023 "LEIDY JULIETH TORRES AGREDO" 13/6/2023 NURC "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1459" 94377962 8164535 2/8/2022 9020118 10/5/2023 277 PRECERRADO       
+516 2474996 16/6/2023 "VIVIANA MARCELA GARZON MARTIN" 13/6/2023 "Derecho de Peticion" "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1459" 31477609 8173764 22/7/2022 8520637 24/10/2022 299 PRECERRADO       
+517 2480330 16/6/2023 "DAVID ALEJANDRO APACHE RODRIGUEZ" 16/6/2023 Solicitud "P14_4 Solicitud de certificado de incapacidad requisitos Decreto 1459" 43820511 8298128 4/9/2022 9205844 4/6/2023 80 PRECERRADO       
 518                    
 519                    
 520                    

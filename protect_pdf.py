@@ -1,31 +1,22 @@
 import os
 import pandas as pd
 import PyPDF2
+from PyPDF2 import PdfReader
+
+# csv_settings = pd.read_csv(r"C:\Users\dapache\python_scripts\myvenv\scripts_python\password_settings.csv", sep=";")
+# for row in csv_settings.itertuples():
+#     print("Protegiendo PDF en ruta\n {Ruta} \ncon la contraseña {Clave}"
+#           .format (Ruta=row[1], Clave=row[2])
+#    ) 
+
+path_csv = pd.read_csv(r'C:\Users\dapache\python_scripts\myvenv\scripts_python\certificados.txt', sep=';')
+df = pd.DataFrame(path_csv)
 
 
-# def lock_pdf(pdf_dir, strPassword):
-#     filename = os.path.basename(pdf_dir)
-#     pdf = open(pdf_dir, "rb")
-#     pdf_data = PyPDF2.PdfFileReader(pdf)
-#     pages_no = pdf_data.numPages
-#     output = PyPDF2.PdfFileWriter(pdf)
 
-    # for i in range(pages_no)
-    #     inputPdf = PyPDF2.PdfFileReader(pdf)
-    #     output.addPage(inputPdf.getPage(i))
-    #     output.encrypt(strPassword)
-    #     save_dir = os.path.join(os.getcwd(), "protected_PDFs", filename)
-    #     with open(save_dir, "wb") as outputSream:
-    #         output.write(outputSream)
-    #     pdf.close()
+reader = PdfReader (r'C:\Users\dapache\python_scripts\myvenv\scripts_python\VO-GA-DGO-2480330-23.pdf')
+number_pages = len(reader.pages)
+page = reader.pages[0]
+text = page.extract_text()
 
-
-csv_settings = pd.read_csv(r"C:\Users\dapache\python_scripts\myvenv\password_settings.csv", sep=";")
-
-for row in csv_settings.itertuples():
-    print("Protegiendo PDF en \n"
-          "{Ruta} con la contraseña {Clave}"
-          .format (e= row.Ruta, password= row.Clave)
-          )
-
-   
+print(df)
